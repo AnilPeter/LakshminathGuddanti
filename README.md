@@ -1,7 +1,5 @@
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently Studying on 3rd Year Computer Science and Engineering
 - 🌱 I’m currently learning Web Development using Django
 - 👯 I’m looking to collaborate on Web Development
